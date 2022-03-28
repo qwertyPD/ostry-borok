@@ -1,8 +1,10 @@
-
+import "./howTo.css";
 
 const HowTo = () => {
     return (
-        <h1>Как Добраться?</h1>
+        <div className="howTo">
+            <h1>Как Добраться?</h1>
+        </div>
     )
 };
 
